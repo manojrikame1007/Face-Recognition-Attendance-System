@@ -26,5 +26,8 @@ git clone https://github.com/manojrikame1007/Face-Recognition-Attendance-System.
 cd Face-Recognition-Attendance-System
 pip install -r requirements.txt
 python main.py
+## How to Run
 
+Run the following command:
+python main.py
 
