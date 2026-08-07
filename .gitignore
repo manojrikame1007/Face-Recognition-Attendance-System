@@ -1,0 +1,14 @@
+# Project generated data
+Attendance/
+StudentDetails/
+TrainingImage/
+TrainingImageLabel/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
