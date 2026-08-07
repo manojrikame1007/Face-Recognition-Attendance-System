@@ -17,4 +17,14 @@ FEATURES:
 
 ### For more information:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/manojrikame1007/Face-Recognition-Attendance-System.git
+cd Face-Recognition-Attendance-System
+pip install -r requirements.txt
+python main.py
+
 
